@@ -1,0 +1,13 @@
+include/
+Lib/
+pyside-setup/
+/Scripts/
+__pycache__/
+*.py[cod]
+*.cfg
+env/
+build/
+dist/
+/*.txt
+*.spec
+warmle.py
